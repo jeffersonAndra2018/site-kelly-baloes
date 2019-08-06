@@ -1056,7 +1056,7 @@ p.wp-caption-text, .frame_caption {
 	height:50px;
 	width:300px;
 	float:left;
-	margin:1px 10px 0 50px;
+	margin:-7px 8px 0 40px;
 	z-index:6;
 	position:relative}
 
@@ -1333,15 +1333,15 @@ p.wp-caption-text, .frame_caption {
 .slide_title2 {
 	font-family: 'Signika Negative', sans-serif;
 	font-weight:600;
-	text-shadow:0 1px 1px rgba(0,0,0, 0.25);
+	text-shadow:0 2px 1px rgba(0,0,0, 0.25);
 	line-height:1.1em;}
 
 .slide_title1 {
 	font-size:29px;
-	color:#fffbdf}
+	color:orange;}
 .tp-caption.slide_title2 {
 	font-size:49px;
-	color:#fff;}
+	color:blueviolet;}
 
 .slide_descr {
 	white-space: normal !important;}
