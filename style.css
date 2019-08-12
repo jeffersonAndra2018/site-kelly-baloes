@@ -753,7 +753,7 @@ p.wp-caption-text, .frame_caption {
 	border-top:1px dashed #e6e6e6;
 	padding:10px 0 13px 68px;
 	line-height:1.3em;
-	background:url(images/arrows_sprite.png) 236px 25px no-repeat #fff}
+	background: 236px 25px no-repeat #fff}
 
 .ie7 .list_numbers ol li {
 	padding:10px 0 6px 21px;}
@@ -1407,7 +1407,9 @@ p.wp-caption-text, .frame_caption {
 #middle .content {
 	width:568px;
 	float:left;
-	margin:0 0 0 62px}
+	margin:0 0 0 62px;
+	text-align: center;
+}
 
 #middle .sidebar {
 	width:268px;
@@ -3075,7 +3077,10 @@ input.btn-submit{
 
 .filter a.current {
 	background-position:0 -26px;
-	color:#f97f39}
+	color:#f97f39;
+	font-size: 24px;	
+}
+
 
 .filter a:hover {
 	color:#f97f39}
